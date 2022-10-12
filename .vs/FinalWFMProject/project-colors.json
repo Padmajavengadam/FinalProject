@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac1028bc-1554-4ffb-acea-67b652dd94bb": {
+      "ProjectGuid": "ac1028bc-1554-4ffb-acea-67b652dd94bb",
+      "DisplayName": "FinalWFMProject",
+      "ColorIndex": 0
+    },
+    "de341860-666a-46b1-85c8-c8a5ac1284a5": {
+      "ProjectGuid": "de341860-666a-46b1-85c8-c8a5ac1284a5",
+      "DisplayName": "APIProject",
+      "ColorIndex": 1
+    },
+    "73ed7688-0b88-4729-84dd-a6c84f6dbc31": {
+      "ProjectGuid": "73ed7688-0b88-4729-84dd-a6c84f6dbc31",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
