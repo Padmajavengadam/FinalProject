@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "315xZk5FxDg0tl+y/S1QoRBYsDToUxGc+R3cHqOLMjkcqG0RmFMgUWCVWh4+azxIqO8Pa22rV70OjEyWBR/NEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\padmajat\\Desktop\\FinalWFMProject\\APIProject\\APIProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\padmajat\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
